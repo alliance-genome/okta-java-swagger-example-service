@@ -3,7 +3,7 @@ This was made by Aoji Xie (GSoC Student) as a proof of concept of using our Okta
 
 This is an example Java REST API with Okta authentication and SwaggerUI
 
-- Java version: 1.8
+- Java Platform (JDK) 8
 - Install Maven from the following site:
         https://maven.apache.org/install.html
 - Set API keys: File Location : src\main\resources\application.properties
