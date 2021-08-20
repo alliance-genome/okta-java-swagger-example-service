@@ -12,3 +12,5 @@ This is an example Java REST API with Okta authentication and SwaggerUI
 ```sh
     mvn spring-boot:run 
 ```
+- SwaggerUI page:  http://localhost:8080/swagger-ui/index.html
+- Use curl commandline or postman to get access token from Okta token end point
